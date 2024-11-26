@@ -5,3 +5,10 @@ C:\Users\lovito99\Desktop\practica de codigo\Algoritmica\AppAVL\AppAVL\bin\Debug
 C:\Users\lovito99\Desktop\practica de codigo\Algoritmica\AppAVL\AppAVL\bin\Debug\AppAVL.pdb
 C:\Users\lovito99\Desktop\practica de codigo\Algoritmica\AppAVL\AppAVL\obj\Debug\AppAVL.exe
 C:\Users\lovito99\Desktop\practica de codigo\Algoritmica\AppAVL\AppAVL\obj\Debug\AppAVL.pdb
+C:\Users\lovito99\Documents\GitHub\ejercicios-diversos\AppAVL\bin\Debug\AppAVL.exe.config
+C:\Users\lovito99\Documents\GitHub\ejercicios-diversos\AppAVL\bin\Debug\AppAVL.exe
+C:\Users\lovito99\Documents\GitHub\ejercicios-diversos\AppAVL\bin\Debug\AppAVL.pdb
+C:\Users\lovito99\Documents\GitHub\ejercicios-diversos\AppAVL\obj\Debug\AppAVL.csproj.AssemblyReference.cache
+C:\Users\lovito99\Documents\GitHub\ejercicios-diversos\AppAVL\obj\Debug\AppAVL.csproj.CoreCompileInputs.cache
+C:\Users\lovito99\Documents\GitHub\ejercicios-diversos\AppAVL\obj\Debug\AppAVL.exe
+C:\Users\lovito99\Documents\GitHub\ejercicios-diversos\AppAVL\obj\Debug\AppAVL.pdb

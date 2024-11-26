@@ -18,7 +18,16 @@ namespace AppAVL
             b.Agregar(8);
 
             // Crear una instancia de CImprimirArbol
-                       
+            CImprimirArbol imprimirArbol = new CImprimirArbol();
+
+            // Imprimir el árbol
+            Console.WriteLine("Árbol AVL:");
+            imprimirArbol.Imprimir(b);
+
+            // Imprimir el recorrido en posorden
+            Console.WriteLine("Recorrido en posorden:");
+            imprimirArbol.ImprimirPosorden(b);
+            Console.WriteLine();
 
             // Calcular el número de nodos que son hojas
             int numeroNodosHojas = b.NumeroNodosHojas();
@@ -48,6 +57,6 @@ namespace AppAVL
         }
 
         // Método auxiliar para convertir CArbolAVL a NodoAVL
-        
+
     }
 }

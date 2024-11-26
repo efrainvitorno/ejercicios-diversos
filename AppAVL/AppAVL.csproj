@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CArbolAVL.cs" />
     <Compile Include="CArbolBB.cs" />
+    <Compile Include="CImprimirArbol.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
